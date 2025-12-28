@@ -1,0 +1,4 @@
+2 2 1
+X1
+X2
+SOFT_CLAUSE ~X1 ~X2 10
